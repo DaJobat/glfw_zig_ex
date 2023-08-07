@@ -1,0 +1,10 @@
+.{
+  .name = "glfw-test",
+  .version = "0.0.0",
+  .dependencies = .{
+    .glfw = .{
+      .url = "https://github.com/DaJobat/glfw/archive/master.tar.gz",
+      .hash = "1220faffa3b0f79ed5da373d80eb81e47a442876b278ac23bd0f133fc63d0aa5b745",
+    },
+  },
+}
